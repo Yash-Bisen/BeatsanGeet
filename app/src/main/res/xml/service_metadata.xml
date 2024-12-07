@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browser-service xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define the root(s) that the media browser service can browse -->
+    <root android:id="@string/root_media_id" />
+
+    <!-- Provide a resource reference for the description -->
+    <service android:description="@string/media_service_description" />
+</browser-service>

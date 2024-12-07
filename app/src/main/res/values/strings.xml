@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeatsanGeet</string>
+    <string name="root_media_id">root</string>
+    <string name="media_service_description">Media service description</string>
+</resources>
